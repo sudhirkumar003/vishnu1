@@ -1,4 +1,3 @@
-add(){
+addition(){
 System.out.println("add method")
 }
-
